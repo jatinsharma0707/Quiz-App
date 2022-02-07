@@ -1,0 +1,22 @@
+[
+    {"Who developed Python Programming Language?\na) Wick van Rossum \nb) Rasmus Lerdorf \nc) Guido van Rossum \nd) Niene Stom":"c"},
+    {"Which type of Programming does Python support?\na) object-oriented programming\nb) structured programming\nc) functional programming\nd) all of the mentioned":"d"},
+    {"Is Python code compiled or interpreted?\na) Python code is both compiled and interpreted\nb) Python code is neither compiled nor interpreted\nc) Python code is only compiled\nd) Python code is only interpreted":"b"},
+    {"Which of the following is used to define a block of code in Python language?\na) Indentation\nb) Key\nc) Brackets\nd) All of the mentioned":"a"},
+    {"Which of the following character is used to give single-line comments in Python?\na) //\nb) #\nc) !\nd) /*":"b"},
+    {"Python supports the creation of anonymous functions at runtime, using a construct called __________\na) pi\nb) anonymous\nc) lambda\nd) none of the mentioned":"c"},
+    {"Which of the following is true for variable names in Python?\na) underscore and ampersand are the only two special characters allowed\nb) unlimited length\nc) all private members must have leading and trailing underscores\nd) none of the mentioned":"b"},
+    {"Which of the following functions is a built-in function in python?\na) factorial()\nb) print()\nc) seed()\nd) sqrt()":"b"},
+    {"Which of the following is the use of id() function in python?\na) Every object doesnt have a unique id\nb) Id returns the identity of the object\nc) All of the mentioned\nd) None of the mentioned":"b"},
+    {"What does pip stand for python?\na) unlimited length\nb) all private members must have leading and trailing underscores\nc) Preferred Installer Program\nd) none of the mentioned":"c"},
+    {"Which of the following is not a core data type in Python programming?\na) Tuples\nb) Lists\nc) Class\nd) Dictionary":"c"},
+    {"Which of these is the definition for packages in Python?\na) A set of main modules\nb) A folder of python modules\nc) A number of files containing Python definitions and statements\nd) A set of programs making use of Python modules":"b"},
+    {"Which one of the following is not a keyword in Python language?\na) pass\nb) eval\nc) assert\nd) nonlocal":"b"},
+    {"Which module in the python standard library parses options received from the command line?\na) getarg\nb) os\nc) main\nd) getopt":"d"},
+    {"What arithmetic operators cannot be used with strings in Python?\na) -\nb) *\nc) +\nd) All of the mentioned":"a"},
+    {"Which of the following statements is used to create an empty set in Python?\na) ( )\nb) [ ]\nc) { }\nd) set()":"d"},
+    {"To add a new element to a list we use which Python command?\na) list1.addEnd(5)\nb) list1.addLast(5)\nc) list1.append(5)\nd) list1.add(5)":"c"},
+    {"What is the maximum possible length of an identifier in Python?\na) 79 characters\nb) 31 characters\nc) 63 characters\nd) none of the mentioned":"d"},
+    {"What are the two main types of functions in Python?\na) System function\nb) Custom function\nc) Built-in function & User defined function\nd) User function":"c"},
+    {"What is output of print(math.pow(3, 2))?\na) 9.0\nb) None\nc) 9\nd) None of the mentioned":"a"}
+]
